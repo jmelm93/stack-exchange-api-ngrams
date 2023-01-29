@@ -1,0 +1,5 @@
+.env
+env.md
+Py-StackExchange/*
+Py-StackExchange
+venv/
